@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impacta.Tarefas.EF", "Impac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impacta.Tarefas.WebApi", "C:\Larissa Tayrini\03082019\Impacta.Tarefas.WebApi\Impacta.Tarefas.WebApi.csproj", "{7DEA60FD-3119-4A5C-8040-3ED71EC7D477}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impacta.Tarefas.ClientApi", "C:\Larissa Tayrini\Impacta.Tarefas\Impacta.Tarefas.ClientApi\Impacta.Tarefas.ClientApi.csproj", "{1B77FF06-EA7E-48C7-B4CE-75359535E282}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7DEA60FD-3119-4A5C-8040-3ED71EC7D477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DEA60FD-3119-4A5C-8040-3ED71EC7D477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DEA60FD-3119-4A5C-8040-3ED71EC7D477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B77FF06-EA7E-48C7-B4CE-75359535E282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B77FF06-EA7E-48C7-B4CE-75359535E282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B77FF06-EA7E-48C7-B4CE-75359535E282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B77FF06-EA7E-48C7-B4CE-75359535E282}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
